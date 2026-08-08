@@ -1,16 +1,18 @@
-<div align="center">
+<table>
+<tr>
+<td width="62%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Paakhi%20Agarwal&fontSize=48&fontColor=00FF9C&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Designer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0D1117&height=200&section=header&text=Paakhi%20Agarwal&fontSize=44&fontColor=00FF9C&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Designer&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9C&background=0D1117&center=true&width=650&lines=%24+whoami;%3E+Paakhi+Agarwal+%E2%80%94+Full-Stack+Developer;%24+cat+stack.txt;%3E+React+%7C+Spring+Boot+%7C+MySQL+%7C+Java;%24+.%2Frun.sh+--status;%3E+Building+PortfolioAI..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF9C&background=0D1117&center=true&width=560&lines=%24+whoami;%3E+Paakhi+Agarwal+%E2%80%94+Full-Stack+Developer;%24+cat+stack.txt;%3E+React+%7C+Spring+Boot+%7C+MySQL+%7C+Java;%24+.%2Frun.sh+--status;%3E+Building+PortfolioAI..." alt="Typing SVG" width="100%"/>
 
-<br/>
+<br/><br/>
 
 ![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C)
 ![University](https://img.shields.io/badge/ABES%20Engineering%20College-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C)
 ![Location](https://img.shields.io/badge/India-0D1117?style=flat-square&labelColor=0D1117&color=00FF9C&logo=googlemaps&logoColor=00FF9C)
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF9C&labelColor=0D1117&color=00FF9C)](https://paakhi-agarwal-10-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117&color=00FF9C)](https://www.linkedin.com/in/paakhi-agarwal-a00394296)
@@ -23,7 +25,18 @@
 ![Followers](https://img.shields.io/github/followers/PaakhiAg?style=flat-square&color=00FF9C&labelColor=0D1117)
 ![Stars](https://img.shields.io/github/stars/PaakhiAg?style=flat-square&color=00FF9C&labelColor=0D1117)
 
-</div>
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/PaakhiAg/PaakhiAg/main/assets/portrait-scan.gif" width="260" alt="Paakhi Agarwal"/>
+
+<br/>
+
+<sub><code>&gt; portrait.gif loaded // terminal profile</code></sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
